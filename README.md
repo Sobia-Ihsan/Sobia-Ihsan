@@ -30,10 +30,6 @@ A passionate **Creative Developer** with a strong background in **Design & Web**
 
 ---
 
-### 📊 My GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sobia-Ihsan&show_icons=true&theme=radical" alt="Sobia's GitHub Stats" />
-</p>
 
 ---
  *“The best way to predict the future is to invent it.”*
