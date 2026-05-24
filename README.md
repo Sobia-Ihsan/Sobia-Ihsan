@@ -35,3 +35,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sobia-Ihsan&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sobia-Ihsan&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
+## 🐍 My Contribution Snake
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Sobia-Ihsan/Sobia-Ihsan/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
